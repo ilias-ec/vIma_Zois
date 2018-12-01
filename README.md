@@ -42,21 +42,21 @@
 
 
 
-Κατάλογος υλικών για την Κεντρική Μονάδα:
-    • ένα Arduino UNO
-    • αισθητήρας θερμοκρασίας-υγρασίας-ατμοσφαιρικής πίεσης - BMP280
-    • αισθητήρα καθαρότητας του αέρα/CO – MQ-135
-    • οθόνη 1.8 inch TFT LCD
-    • ηχείο και φωνητική απόδοση: της ημερομηνίας-ώρας και των μετρήσεων των αισθητήρων ISD1820
-    • βομβητής (buzzer)
-    • για φωνητική κλήση και για SMS - A6 GPRS GSM Module - Quad-band 850 900 1800 1900MHZ + Antenna (AI Thinker)
-    • ενσύρματο ή/και ασύρματο network - Ethernet Shield W5100 Network Board For Arduino ή/και ESP8266 ESP-12E UART WIFI Wireless Shield for Arduino
-    • SD κάρτα για αποθήκευση μετρήσεων και RTC module – Data Logger shield with RTC and SD Card
-    • τροφοδοτικό 12V DC- 220V AC
+**Κατάλογος υλικών για την Κεντρική Μονάδα:**
+    - ένα Arduino UNO
+    - αισθητήρας θερμοκρασίας-υγρασίας-ατμοσφαιρικής πίεσης - BMP280
+    - αισθητήρα καθαρότητας του αέρα/CO – MQ-135
+    - οθόνη 1.8 inch TFT LCD
+    - ηχείο και φωνητική απόδοση: της ημερομηνίας-ώρας και των μετρήσεων των αισθητήρων ISD1820
+    - βομβητής (buzzer)
+    - για φωνητική κλήση και για SMS - A6 GPRS GSM Module - Quad-band 850 900 1800 1900MHZ + Antenna (AI Thinker)
+    - ενσύρματο ή/και ασύρματο network - Ethernet Shield W5100 Network Board For Arduino ή/και ESP8266 ESP-12E UART WIFI Wireless Shield for Arduino
+    - SD κάρτα για αποθήκευση μετρήσεων και RTC module – Data Logger shield with RTC and SD Card
+    - τροφοδοτικό 12V DC- 220V AC
 
-Κατάλογος υλικών για το περικάρπιο:
-    • ένα Arduino Nano
-    • γυροσκόπιο και επιταχυνσιόμετρο  - MPU-6050
-    • ένα ηχείο - Small Speaker 8 Ohm 0.5W 40mm (ή μικρότερο)
-    • ένας αισθητήρας καρδιακών παλμών - Heart Rate Pulse Sensor Module For Arduino
-    • τροφοδοσία με μπαταρία λιθίου των 5 Volt.
+**Κατάλογος υλικών για το περικάρπιο:**
+    - ένα Arduino Nano
+    - γυροσκόπιο και επιταχυνσιόμετρο  - MPU-6050
+    - ένα ηχείο - Small Speaker 8 Ohm 0.5W 40mm (ή μικρότερο)
+    - ένας αισθητήρας καρδιακών παλμών - Heart Rate Pulse Sensor Module For Arduino
+    - τροφοδοσία με μπαταρία λιθίου των 5 Volt.
